@@ -1,6 +1,9 @@
 # Assignemt1ANLP
 
 
+Anaconda files are on google drive : please find below link: 
+
+https://drive.google.com/file/d/12D2aK5_00xJDLYbz46Yf_Xy9cUUltOYh/view?usp=share_link
 
 In this assignment we are required to reproduce results from base NLP research paper.
 
