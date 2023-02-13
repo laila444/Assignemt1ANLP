@@ -1,11 +1,8 @@
 # Assignemt1ANLP
 
-The project cannot be uploaded to github due to size restriction. Kindly find it on the link below of Google Drive on the BUID Account.
-
-https://drive.google.com/file/d/12D2aK5_00xJDLYbz46Yf_Xy9cUUltOYh/view?usp=sharing
 
 
- In this assignment we are required to reproduce results from base NLP research paper.
+In this assignment we are required to reproduce results from base NLP research paper.
 
 In this assignment1 I used BERT and BOW to make it easier for me when working on assignment 2.
 
