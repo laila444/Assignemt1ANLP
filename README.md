@@ -1,27 +1,17 @@
 # Assignemt1ANLP
 
 
-Anaconda files are on google drive : please find below link: 
+Anaconda Jupyter files are on google drive : please find below link: 
 
 https://drive.google.com/file/d/12D2aK5_00xJDLYbz46Yf_Xy9cUUltOYh/view?usp=share_link
 
 In this assignment we are required to reproduce results from base NLP research paper.
 
-In this assignment1 I used BERT and BOW to make it easier for me when working on assignment 2.
+I used BERT and BOW to make it easier for me when working on assignment 2.
 
-This project has 4 Jupyter notebooks. Please note that you need to open them in order to avoid any errors:
 
-The preferred order is as follows:
 
-1- bert
 
-2- cnn
-
-3- lstm
-
-4- traditional_ml
-
-hint: keep bert running all time when opening the other notebooks since it has the main coding of the data train. It may slow down your PC. however, if it get stopped at the middle of processing, errors will occur.
 
 
 # Datasets
