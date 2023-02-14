@@ -1,7 +1,7 @@
 # Assignemt1ANLP
 
 
-Anaconda Jupyter files are on google drive : please find below link: 
+Anaconda Jupyter notebooks are on google drive : please find below link: 
 
 https://drive.google.com/file/d/12D2aK5_00xJDLYbz46Yf_Xy9cUUltOYh/view?usp=share_link
 
